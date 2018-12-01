@@ -1,2 +1,5 @@
-# SnackDown-2019
-Solutions of SnackDown 2019 programming competition hosted by Codechef.
+# Codechef Snackdown 2019
+## Team: willCodeForMc
+### Members:
+- Panagiotis Antoniadis
+- Chryssa Nampouri (https://github.com/ChryssaNab)
